@@ -1,0 +1,6 @@
+#sql database
+*.db
+
+# personal files
+decks/
+Collection.csv
